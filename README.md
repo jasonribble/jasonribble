@@ -1,6 +1,6 @@
 - Hi, I’m @jasonribble
 - I’m interested in open source software.
-- I’m currently learning about Bitcoin and Odoo.
+- I’m currently learning about Bitcoin and Continuous Delivery.
 
 <!---
 jasonribble/jasonribble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
